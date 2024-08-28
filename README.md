@@ -1,4 +1,5 @@
-<div align="center"> <br /> <a href="https://spark-hackindia-2024-shinchan.vercel.app)/" target="_blank"> <img src="<img width="1461" alt="Screenshot 2024-08-28 at 9 00 46 AM" src="https://github.com/user-attachments/assets/007a115f-ef08-4484-ad93-41a10675d07d">
+<img width="1461" alt="Screenshot 2024-08-28 at 9 00 46 AM" src="https://github.com/user-attachments/assets/2da8e745-e637-434d-aa8a-1b63b56d0c71">
+<div align="center"> <br /> <a href="https://spark-hackindia-2024-shinchan.vercel.app)/" target="_blank">
 " alt="InnerRooh Project Banner"> </a> <br />
 <a href="[https://innerrooh.link](https://spark-hackindia-2024-shinchan.vercel.app)/"><h1 align="center">InnerRooh: Your Mental Health, Our Priority</h1></a>
 
