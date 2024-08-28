@@ -190,11 +190,10 @@ const SideBar = ({
         </div>
         <div className="copyright">
           <p className="fs-14 font-w200">
-            <strong className="font-w400">TBC Hospital Admin Dashboard</strong>©
-            2023 All Rights Reserved
+            <strong className="font-w400"> Inner Rooh Admin Dashboard</strong> <br/> All Rights Reserved © 2024
           </p>
           <p className="fs-12">
-            Made with <span className="heart" /> by @theblockchaincoders
+            Made with love by Team SHINCHAN
           </p>
         </div>
       </div>
